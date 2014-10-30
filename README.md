@@ -1,0 +1,1 @@
+# Hack@Brown `git` Workshop!
